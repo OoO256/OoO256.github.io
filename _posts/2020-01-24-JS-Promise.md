@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JS Promise"
+title:  "callback 지옥 탈출법 : Promise"
 date:   2020-01-24 01:12:14 +0900
 categories: [web]
 tags: [JS]
